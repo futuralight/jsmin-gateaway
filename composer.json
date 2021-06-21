@@ -3,14 +3,12 @@
     "description": "JSMin PHP FFI Gateaway",
     "type": "library",
     "require": {
-        "php": "^7.4.0"
+        "php": "^7.4|^8.0"
     },
-    "authors": [
-        {
-            "name": "futuralight",
-            "email": "futuralight@outlook.com"
-        }
-    ],
+    "authors": [{
+        "name": "futuralight",
+        "email": "futuralight@outlook.com"
+    }],
     "autoload": {
         "psr-4": {
             "JSMinGateaway\\": "src/"
