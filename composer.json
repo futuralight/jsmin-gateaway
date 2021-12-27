@@ -3,7 +3,7 @@
     "description": "JSMin PHP FFI Gateaway",
     "type": "library",
     "require": {
-        "php": "^7.4|^8.0"
+        "php": "^7.4|^8"
     },
     "authors": [{
         "name": "futuralight",
